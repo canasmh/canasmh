@@ -17,6 +17,3 @@ Furthermore, I am very familiar with front-end languages such as HTML, CSS5, and
 I am about a month short from finishing a course in React.JS, which will certainly raise my value as a full stack developer. 
 
 Feel free to contact me via email: canasmh@yahoo.com
-
-
-I also like music, exercising, and travelling!
