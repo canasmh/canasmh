@@ -6,7 +6,7 @@ I like coding 👨🏽‍💻, astronomy 🔭, and music 🎧.
 
 I have a B.S. in Physics, and a B.S. in Astrophysics, both of which were obtained from the College of Charleston in Charleston, SC, USA 🏖.
 I am currently in Grad school for Astronomy at New Mexico State University, Las Cruces, NM, USA 🌵. 
-I expect to receive this degree by the end of Summer 2022.
+I expect to receive this degree by the Winter 2022.
 
 While I love space and learning about the universe we live in, I have become very interested in joining industry as a full stack developer once I complete my Masters.
 
