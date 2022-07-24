@@ -1,4 +1,4 @@
-Hello 😊!
+Hello 😊
 
 My name is Manny 🙋🏽‍♂️.
 
