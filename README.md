@@ -1,6 +1,7 @@
-Hello 😊
+# Hello there 👋🏽
 
-My name is Manny 🙋🏽‍♂️.
+
+## Welcome to Manny's GitHub profile
 
 I like coding 👨🏽‍💻, astronomy 🔭, music 🎧 and working out 🏋🏽.
 
