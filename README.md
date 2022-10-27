@@ -1,11 +1,8 @@
-# Hello there 👋🏽
-
-
-## Welcome to my GitHub profile ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcanasmh%2Fcanasmh&label=Visitors&countColor=%23263759)
+# Welcome 👋🏽 to my GitHub profile ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcanasmh%2Fcanasmh&label=Visitors&countColor=%23263759) 
 
 ### About Me
 
-I am a full stack developer with a passion for design, problem solving, team building exercises, and getting 💩 done!
+I am a full stack developer with a passion for design, problem solving, and working with teams.
 
 
 ### Education
@@ -24,12 +21,12 @@ I am a full stack developer with a passion for design, problem solving, team bui
 #### Libraries & Frameworks
 <img alt="react JS logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="65px" /> <img alt="Python FLask logo" src="https://spng.pngfind.com/pngs/s/62-626352_png-format-flask-python-logo-transparent-png.png" width="65px" /> <img alt="Node JS" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="65px" /> <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="65px" /> <img alt="MongoDB" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1626694700/hevo-blog/MongoDB-sm-logo-500x400-1-1.gif?_i=AA" width="65px" /> <img alt="Pandas Python" src="https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/pandas-python.png" width="65px" /> <img alt="Matplotlib Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" width="65px" /> 
 
-### GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=canasmh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 #### Spoken Languages
  - Spanish (Native)
  - English (Fluent)
+
+### GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=canasmh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### Traits
  - Good at working with other people
