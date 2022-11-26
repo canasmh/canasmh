@@ -1,48 +1,61 @@
-# Welcome 👋🏽 to my GitHub profile ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcanasmh%2Fcanasmh&label=Visitors&countColor=%23263759) 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manuel H. Canas
+=======================================================================================================================================
 
-### About Me
+Full Stack Developer | Astronomer
+---------------------------------
 
-I am a full stack developer with a passion for design, problem solving, and working with teams.
+I am finishing my masters in astrophysics, focusing on computational astrophysics, and once obtained, I plan to transition careers into full-stack web development. To prepare for this transition, I have taken courses that include front-end and back-end development, data structures and algorithms, security and authentication, databases and SQL vs. NoSQL, Web3, web hosting, advanced CSS (including SASS and SCSS), and data analysis and machine learning.
 
+*   🌍  I'm based in Greenville, SC, USA
+*   🖥️  See my portfolio at [My Portfolio](http://canasmh.github.io)
+*   ✉️  You can contact me at [canasmh@yahoo.com](mailto:canasmh@yahoo.com)
+*   🚀  I'm currently working on [A Tech Blog](http://NotMannyBugs.herokuapp.com)
+*   🧠  I'm learning Data Structures and Algorithms, Django, and Advanced React
+*   🤝  I'm open to collaborating on Web-based games and apps, E-commerce, Social Media
+*   ⚡  I am fluent in Spanish and English
 
-### Education
- - Certificate, Full Stack Developer, BloomTech, Virtual (Expected Spring 2023)
- - M.Sc., Astronomy, New Mexico State University, Las Cruces NM (Expected Spring 2023)
- - B.Sc., Astrophysics, College of Charleston, Charleston SC (May 2018)
- - B.Sc., Physics, College of Charleston, Charleston SC (May 2018)
+### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+</p>
+                    
+### Socials
+<p align="left">
+ 
+ <a href="https://www.facebook.com/manuel.canas.1029" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+ 
+ <a href="https://www.github.com/canasmh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
+<a href="http://www.instagram.com/too_manny_stars" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
-### Skills
+<a href="https://www.linkedin.com/in/canasmh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
-#### Programming Languages
+<a href="https://www.twitter.com/astromanny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
-![python logo](https://languages.abranhe.com/languages/python.png) ![HTML logo](https://languages.abranhe.com/languages/html.png)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 logo" width="65px" /> ![JavaScript logo](https://languages.abranhe.com/languages/javascript.png) ![C++ logo](https://languages.abranhe.com/languages/cpp.png) 
+</p>
 
-#### Libraries & Frameworks
-<img alt="react JS logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="65px" /> <img alt="Python FLask logo" src="https://spng.pngfind.com/pngs/s/62-626352_png-format-flask-python-logo-transparent-png.png" width="65px" /> <img alt="Node JS" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="65px" /> <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="65px" /> <img alt="MongoDB" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1626694700/hevo-blog/MongoDB-sm-logo-500x400-1-1.gif?_i=AA" width="65px" /> <img alt="Pandas Python" src="https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/pandas-python.png" width="65px" /> <img alt="Matplotlib Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" width="65px" /> 
-
-#### Spoken Languages
- - Spanish (Native)
- - English (Fluent)
-
-### GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=canasmh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-### Traits
- - Good at working with other people
- - Quick learner
- - Creative mind
- - Happiest when I'm bouncing ideas off with other people
-
-### Hobbies
- I enjoy the following activities:
-  - 👨🏽‍💻 coding
-  - 🔭 stargazing
-  - 🎧 listening to music
-  - 🎹 playing music
-  - 🧩 puzzles 
-
-### Get in touch with me:
-<a href="https://facebook.com/manuel.canas.1029" target="_blank"><img alt="facebook logo" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" width="65px" /></a> <a href="https://www.instagram.com/too_manny_stars/" target="_blank"><img alt="instagram logo" width="65px" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png" /></a> <a href="https://twitter.com/astromanny" target="_blank"><img alt="twitter logo" src="https://cdn.pixabay.com/photo/2018/06/22/19/03/logo-3491390_1280.png" width="65px" /></a> <a href="https://linkedin.com/in/canasmh" target="_blank"><img alt="linkedin logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" width="45px" /></a> <a href="mailto:canasmh@yahoo.com"><img alt="email logo" src="https://t4.ftcdn.net/jpg/04/76/40/09/360_F_476400933_A4gKwXtlgQFslfSuDvbV35eQcBIDlYjw.jpg" width="45px" /></a>
-
-
+### Badges
+##### My GitHub Stats
+<a href="http://www.github.com/canasmh"><img src="https://github-readme-stats.vercel.app/api?username=canasmh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="canasmh's GitHub stats" /></a>
+<br/>
+<a href="http://www.github.com/canasmh"><img
+src="https://github-readme-streak-stats.herokuapp.com/?user=canasmh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/canasmh"><img src="https://activity-graph.herokuapp.com/graph?username=canasmh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/canasmh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canasmh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Support Me
+<a href="https://www.buymeacoffee.com/canasmh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
