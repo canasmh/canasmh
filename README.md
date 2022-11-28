@@ -7,7 +7,7 @@ Full Stack Developer | Astronomer
 I am finishing my masters in astrophysics, focusing on computational astrophysics, and once obtained, I plan to transition careers into full-stack web development. To prepare for this transition, I have taken courses that include front-end and back-end development, data structures and algorithms, security and authentication, databases and SQL vs. NoSQL, Web3, web hosting, advanced CSS (including SASS and SCSS), and data analysis and machine learning.
 
 *   🌍  I'm based in Greenville, SC, USA
-*   🖥️  See my portfolio at [My Portfolio](http://canasmh.github.io)
+*   🖥️  See my portfolio at [canasmh.github.io](http://canasmh.github.io)
 *   ✉️  You can contact me at [canasmh@yahoo.com](mailto:canasmh@yahoo.com)
 *   🚀  I'm currently working on [A Tech Blog](http://NotMannyBugs.herokuapp.com)
 *   🧠  I'm learning Data Structures and Algorithms, Django, and Advanced React
