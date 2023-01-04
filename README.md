@@ -9,7 +9,7 @@ I am finishing my masters in astronomy with a focus on computational astrophysic
 *   🌍  I'm based in Greenville, SC, USA
 *   🖥️  See my portfolio at [canasmh.github.io](http://canasmh.github.io)
 *   ✉️  You can contact me at [canasmh@yahoo.com](mailto:canasmh@yahoo.com)
-*   🚀  I'm currently working on [A Tech Blog](http://NotMannyBugs.herokuapp.com)
+*   🚀  I'm currently working on [A website for a Brokerage companpy](https://canasmh.github.io/FoothillsPG)
 *   🧠  I'm learning Data Structures and Algorithms, Django, and Advanced React
 *   🤝  I'm open to collaborating on Web-based games and apps, E-commerce, Social Media
 *   ⚡  I am fluent in Spanish and English
