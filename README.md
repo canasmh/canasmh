@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer | Astronomer
 ---------------------------------
 
-I am finishing my masters in astronomy with a focus on computational astrophysics, and once obtained, I plan to transition careers into full-stack web development. To prepare for this transition, I have taken courses that include front-end and back-end development, data structures and algorithms, security and authentication, databases and SQL vs. NoSQL, Web3, web hosting, advanced CSS (including SASS and SCSS), and data analysis and machine learning.
+I am finishing my masters in astronomy with a focus on computational astrophysics, and once obtained, I plan to transition careers into full-stack web development. To prepare for this transition, I have taken courses that include Front End and Back End development, data structures and algorithms, security and authentication, databases and SQL vs. NoSQL, Web3, web hosting, advanced CSS (including SASS and SCSS), and data analysis and machine learning.
 
 *   🌍  I'm based in Greenville, SC, USA
 *   🖥️  See my portfolio at [canasmh.github.io](http://canasmh.github.io)
