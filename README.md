@@ -1,17 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manuel H. Canas
 =======================================================================================================================================
 
-Full Stack Developer | Astronomer
+Full-Stack Developer | Software Developer
 ---------------------------------
 
-I am finishing my masters in astronomy with a focus on computational astrophysics, and once obtained, I plan to transition careers into becoming a Full Stack Developer. To prepare for this transition, I have taken courses that include Front End and Back End development, data structures and algorithms, security and authentication, databases and SQL vs. NoSQL, Web3, web hosting, advanced CSS (including SASS and SCSS), and data analysis and machine learning.
+I have recently received my Masters of Science in Astronomy with a focus on computational astrophysics, and am now transitioning careers into becoming a Full-Stack Developer. To prepare for this transition, I have taken courses that include Front End and Back End development, data structures and algorithms, security and authentication, databases (including SQL, NoSQL, and GraphSQL), Web3, web hosting, advanced CSS (including SASS and SCSS), and data analysis and machine learning.
 
 *   🌍  I'm based in Greenville, SC, USA
 *   🖥️  See my portfolio at [canasmh.github.io](http://canasmh.github.io)
 *   ✉️  You can contact me at [canasmh@yahoo.com](mailto:canasmh@yahoo.com)
-*   🚀  I'm currently working on [A website for a Brokerage companpy](https://canasmh.github.io/FoothillsPG)
-*   🧠  I'm learning Data Structures and Algorithms, Django, and Advanced React
-*   🤝  I'm open to collaborating on Web-based games and apps, E-commerce, Social Media
+*   🚀  I'm currently working on [A Tech Blog](https://canasmh.github.io/NotMannyBugs)
+*   🏘️  I just finished developing a website for a [Real Estate Brokerage Company](https://foothillspg.com)
+*   🧠  I'm learning Data Structures and Algorithms, Django, and Advanced React
+*   🤝  I'm open to collaborating on Web-based games and apps, E-commerce, and Social Media
 *   ⚡  I am fluent in Spanish and English
 
 ### Skills 
