@@ -9,7 +9,7 @@ I have recently received my Masters of Science in Astronomy with a focus on comp
 *   🌍  I'm based in Greenville, SC, USA
 *   🖥️  See my portfolio at [canasmh.github.io](http://canasmh.github.io)
 *   ✉️  You can contact me at [canasmh@yahoo.com](mailto:canasmh@yahoo.com)
-*   🚀  I'm currently working on [A Tech Blog](https://canasmh.github.io/NotMannyBugs)
+*   🚀  I'm currently working on [A Tech Blog](https://github.com/canasmh/NotMannyBugs)
 *   🏘️  I just finished developing a website for a [Real Estate Brokerage Company](https://foothillspg.com)
 *   🧠  I'm learning Data Structures and Algorithms, Django, and Advanced React
 *   🤝  I'm open to collaborating on Web-based games and apps, E-commerce, and Social Media
