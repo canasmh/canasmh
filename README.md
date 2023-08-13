@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer | Software Developer
 ---------------------------------
 
-I have recently received my Masters of Science in Astronomy with a focus on computational astrophysics, and am now transitioning careers into becoming a Full-Stack Developer. To prepare for this transition, I have taken courses that include Front End and Back End development, data structures and algorithms, security and authentication, databases (including SQL, NoSQL, and GraphSQL), Web3, web hosting, advanced CSS (including SASS and SCSS), and data analysis and machine learning.
+I have recently joined the Develop Carolina Apprenticeship as full-time apprentice. I have a M.Sc in Astronomy. but my interests lies in UI/UX, data analysis, full-stack development, and product design.
 
 *   🌍  I'm based in Greenville, SC, USA
 *   🖥️  See my portfolio at [canasmh.github.io](http://canasmh.github.io)
 *   ✉️  You can contact me at [canasmh@yahoo.com](mailto:canasmh@yahoo.com)
 *   🚀  I'm currently working at [Booz Allen Hamilton](https://www.boozallen.com/) as a software developer apprentice
-*   🏘️  I just finished developing a website for a [Real Estate Brokerage Company](https://foothillspg.com)
-*   🧠  I'm learning Data Structures and Algorithms, Django, and Advanced React
+*   🏘️  I just finished developing building a [Tech Blog](https://notmannybugs.herokuapp.com)
+*   🧠  I'm currently developing in Next.js, Springboot, and Angular.js.
 *   🤝  I'm open to collaborating on Web-based games and apps, E-commerce, and Social Media
 *   ⚡  I am fluent in Spanish and English
 
