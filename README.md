@@ -10,7 +10,7 @@ I have recently joined the Develop Carolina Apprenticeship as full-time apprenti
 *   🖥️  See my portfolio at [canasmh.github.io](http://canasmh.github.io)
 *   ✉️  You can contact me at [canasmh@yahoo.com](mailto:canasmh@yahoo.com)
 *   🚀  I'm currently working at [Booz Allen Hamilton](https://www.boozallen.com/) as a software developer apprentice
-*   🏘️  I just finished developing building a [Tech Blog](https://notmannybugs.herokuapp.com)
+*   🏘️  My most recent project is a [Tech Blog](https://notmannybugs.herokuapp.com)
 *   🧠  I'm currently developing in Next.js, Springboot, and Angular.js.
 *   🤝  I'm open to collaborating on Web-based games and apps, E-commerce, and Social Media
 *   ⚡  I am fluent in Spanish and English
